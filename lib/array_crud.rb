@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["noodles", "dumplings", "cake", "peaches"] 
+  fav_foods = ["noodles", "dumplings", "cake", "peaches"] 
 end
 
 def add_element_to_end_of_array(array, element)
